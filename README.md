@@ -6,6 +6,8 @@
 
 O objetivo principal deste projeto é fornecer uma base de como criar um formulário de login funcional em uma aplicação web, desde a estruturação dos elementos HTML até a estilização visual e a validação de dados com JavaScript. Embora não se autentique com o site real do Senac, ele oferece uma oportunidade de aprendizado para desenvolvedores que desejam criar formulários de login em seus próprios projetos.
 
+Site original: https://senac.blackboard.com/
+
 ## Screenshots
 
 ![Minha Screenshot](/src/imgs/project.png)
